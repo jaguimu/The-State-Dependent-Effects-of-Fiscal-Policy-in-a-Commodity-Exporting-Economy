@@ -1,6 +1,6 @@
-# SET-VAR: State-Dependent Effects of Fiscal Policy in Peru (R)
+# SET-VAR: State-Dependent Effects of Fiscal Policy in Peru
 
-Data and RStudio adaptation of the SET-VAR codes of Katerina Petrova (Gargiulo, Matthes and Petrova, 2025, "Monetary policy across inflation regimes", *European Economic Review*), adapted to our study.
+Data and RStudio adaptation codes of the SET-VAR codes of Katerina Petrova (Gargiulo, Matthes and Petrova, 2025, "Monetary policy across inflation regimes", *European Economic Review*) Originally in Matlab, adapted to this study.
 
 ## Run
 
